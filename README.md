@@ -4,4 +4,4 @@
 👀 Rookie Coder, erratic designer, meddling with data analytics and some web designing.  <br />
 🌱 Pursuing bachelor's in Computer Science Engineering <br/>
 :chart_with_upwards_trend: Internship: <br/>
--Intern at ThemeProTech
+- Intern at ThemeProTech
